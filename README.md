@@ -1,1 +1,1 @@
-# Manipulating data using SQL queries
+# Perfoming SQL queries to manipulate a dataset
