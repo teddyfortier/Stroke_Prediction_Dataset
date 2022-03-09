@@ -1,1 +1,1 @@
-# Stroke_Prediction_Dataset
+# Manipulating data using SQL queries
